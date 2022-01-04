@@ -1,4 +1,4 @@
-# Document Scanner with OpenCV
+# Document Scanner 🖨️ | Made with OpenCV
 
 
 This scanner is built in Python using OpenCV, it takes an image of any document, outlines the corners, and then transforms the image to the appropriate perspective to get a correct view of the document, and applies a color threshold to give it a similar appearance to a scanned image.
