@@ -30,4 +30,4 @@ python DocuScan.py --images ImageDir
 ```
 
 ## Roadmap
-- I am planning to implement a feature where you can select the corners for a document that may have ripped edges or be torn.
+- I am working to implement a feature where you can select the corners for a document that may have ripped edges or be torn and scan multiple images at once.
